@@ -1,0 +1,18 @@
+<div align="center">
+
+<img src="logo.png" width="300">
+
+# Marcelo Silva Assistência Técnica T.I
+
+### Ferramenta de Pós-Formatação e Otimização Windows
+
+</div>
+
+---
+
+## 🚀 Executar Ferramenta
+
+Abra o PowerShell como Administrador e execute:
+
+```powershell
+irm https://raw.githubusercontent.com/Marcelo021023/marcelo_silva_ti/main/start.ps1 | iex
