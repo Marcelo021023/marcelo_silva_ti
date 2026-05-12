@@ -36,17 +36,3 @@ Instagram: @marcelosilva.ti
 
 ---
 
-## 6. Commit
-Depois:
-- `Commit changes`
-
-E PRONTO 🔥
-
-Seu GitHub vai ficar com:
-✅ Logo  
-✅ Descrição profissional  
-✅ Comando pronto  
-✅ Cara de projeto real  
-✅ Ferramenta técnica própria
-
-Vai ficar MUITO bonito 😄
